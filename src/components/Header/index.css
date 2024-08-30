@@ -1,0 +1,15 @@
+.header-container {
+}
+
+.navbar {
+  background-color: #f1f5f9;
+  padding: 20px;
+  min-height: 10vh;
+  width: 100%;
+  padding-left: 50px;
+}
+
+.image-header {
+  height: 70px;
+  width: 100px;
+}
